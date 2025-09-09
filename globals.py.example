@@ -1,0 +1,9 @@
+class Constants:
+    PATH_DRIVER: str = ""
+    PATH_BASE: str = ""
+
+    FLAG_HEADLESS: bool = ""
+
+    PATH_LOGS: str = ""
+
+    LINK_PORTAL: str = ""
